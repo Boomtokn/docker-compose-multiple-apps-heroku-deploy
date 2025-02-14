@@ -1,0 +1,2 @@
+- name: Deploy Multiple Docker Images to Heroku Apps
+  uses: snithyanantham/docker-compose-multiple-apps-heroku-deploy@v1.0
